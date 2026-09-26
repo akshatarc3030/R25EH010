@@ -6,3 +6,7 @@ Hi, I’m Akshata, a BTech student specializing in Artificial Intelligence and D
 - SQL
 - Git and GitHub
 - Machine Learning
+ ## Projects
+
+- Portfolio Website
+- AI and Data Science Projects
