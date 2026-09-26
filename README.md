@@ -10,3 +10,6 @@ Hi, I’m Akshata, a BTech student specializing in Artificial Intelligence and D
 
 - Portfolio Website
 - AI and Data Science Projects
+## Goals
+
+I aim to strengthen my programming and problem-solving skills and build practical projects in artificial intelligence and data science.
