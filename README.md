@@ -13,3 +13,6 @@ Hi, I’m Akshata, a BTech student specializing in Artificial Intelligence and D
 ## Goals
 
 I aim to strengthen my programming and problem-solving skills and build practical projects in artificial intelligence and data science.
+### Technologies
+
+Python, C++, SQL, Git, GitHub, and Machine Learning.
