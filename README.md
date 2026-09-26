@@ -16,3 +16,6 @@ I aim to strengthen my programming and problem-solving skills and build practica
 ### Technologies
 
 Python, C++, SQL, Git, GitHub, and Machine Learning.
+### Project Focus
+
+Developing practical projects in artificial intelligence, data science, and web development.
